@@ -9,7 +9,10 @@
     max-width: 400px;
     padding: 1rem;
     margin: 0 auto;
-  }
+    background-image: url('./back.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
   
   .new-item-form {
     display: flex;
